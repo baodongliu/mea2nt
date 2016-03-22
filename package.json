@@ -1,0 +1,33 @@
+{
+  "name": "mea2nt",
+  "version": "0.0.0",
+  "description": "Sample project for mongodb, express, angular2, node and typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baodongliu/mea2nt.git"
+  },
+  "author": "Baodong Liu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/baodongliu/mea2nt/issues"
+  },
+  "homepage": "https://github.com/baodongliu/mea2nt#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "chalk": "^1.1.1",
+    "compression": "^1.6.1",
+    "express": "^4.13.4",
+    "express-session": "^1.13.0",
+    "fs": "0.0.2",
+    "glob": "^7.0.3",
+    "lodash": "^4.6.1",
+    "method-override": "^2.3.5",
+    "morgan": "^1.7.0",
+    "path": "^0.12.7",
+    "yargs": "^4.3.2"
+  }
+}
